@@ -1,0 +1,21 @@
+{
+  "name": "lil-shimon",
+  "displayName": "lil-shimon",
+  "description": "colorscheme created by lil-shimon",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "lil-shimon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lil-shimon-color-theme.json"
+      }
+    ]
+  }
+}
